@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" modified="2024-03-19T16:52:57.715Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="gteaob03D62Yyhvy8QNW" version="24.0.7" type="device">
+  <diagram name="Страница — 1" id="h6boGuK6RiDbdPJis6E2">
+    <mxGraphModel dx="1313" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="70" width="250" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-3" value="Система" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="379" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: LiberationSans;&quot;&gt;Вывести данные об кинофильмах, доход которых меньше 100 000 BYN&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="314" y="100" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-6" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: LiberationSans;&quot;&gt;Вывести данные обо всех кинолентах в форме идентификатор киноленты,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: LiberationSans;&quot;&gt;название, цена билета&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="314" y="240" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-9" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: LiberationSans;&quot;&gt;Подсчет количества кинолент, если цена билета &amp;gt;=3 BYN&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="314" y="380" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SImJe0jPlO_s5dA1lZ43-10" target="SImJe0jPlO_s5dA1lZ43-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-10" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: LiberationSans;&quot;&gt;&amp;nbsp; Суммарный доход всех кинолент, которых были показаны в кинотеатрах г.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: LiberationSans;&quot;&gt;Минска&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="314" y="524.5" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SImJe0jPlO_s5dA1lZ43-11" target="SImJe0jPlO_s5dA1lZ43-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="730" />
+              <mxPoint x="630" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-11" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: LiberationSans;&quot;&gt;Максимальная и минимальная прибыль&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="314" y="670" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SImJe0jPlO_s5dA1lZ43-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-12" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;LiberationSans&quot;&gt;Отправить полученные данные&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="314" y="820" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SImJe0jPlO_s5dA1lZ43-14" target="SImJe0jPlO_s5dA1lZ43-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SImJe0jPlO_s5dA1lZ43-14" target="SImJe0jPlO_s5dA1lZ43-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="570" />
+              <mxPoint x="250" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SImJe0jPlO_s5dA1lZ43-14" target="SImJe0jPlO_s5dA1lZ43-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="560" />
+              <mxPoint x="210" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SImJe0jPlO_s5dA1lZ43-14" target="SImJe0jPlO_s5dA1lZ43-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="540" />
+              <mxPoint x="170" y="540" />
+              <mxPoint x="170" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SImJe0jPlO_s5dA1lZ43-14" target="SImJe0jPlO_s5dA1lZ43-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="600" />
+              <mxPoint x="250" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-14" value="Тестировщик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="555" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SImJe0jPlO_s5dA1lZ43-15" target="SImJe0jPlO_s5dA1lZ43-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SImJe0jPlO_s5dA1lZ43-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="640" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="695" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-15" value="СУБД" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="555" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SImJe0jPlO_s5dA1lZ43-4" target="SImJe0jPlO_s5dA1lZ43-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SImJe0jPlO_s5dA1lZ43-6" target="SImJe0jPlO_s5dA1lZ43-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SImJe0jPlO_s5dA1lZ43-42" value="База данных" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="750" y="544.5" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
